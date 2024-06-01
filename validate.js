@@ -9,3 +9,5 @@
 //validate feature 05
 
 //validate feature 06
+
+//validate feature 07 //한글 주석
