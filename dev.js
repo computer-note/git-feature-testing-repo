@@ -5,3 +5,5 @@
 //dev feature 0x04
 
 //dev feature 0x05
+
+//dev feature 0x06
