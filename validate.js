@@ -11,3 +11,5 @@
 //validate feature 06
 
 //validate feature 07 //한글 주석
+
+//validate feature 08 //git --amend 테스트
